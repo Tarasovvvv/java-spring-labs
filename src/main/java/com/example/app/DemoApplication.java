@@ -31,8 +31,6 @@ public class DemoApplication {
 		chair1.send(storage1);
 		box1.send(storage1);
 
-
-
 		context.close();
 	}
 }
